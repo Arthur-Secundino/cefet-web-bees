@@ -32,7 +32,7 @@ p:last-of-type {
     background-image: url("./imgs/favo-de-mel.png");
     border: 1px solid #ffa700;
     border-radius: 10px;
-    padding: 15px;
+    padding: 20px;
     min-height: 37px;
 }
 
@@ -41,10 +41,18 @@ p:last-of-type {
     margin-right: 20px;;
 }
 
+#cancela-flutuacao {
+    clear: left;
+}
+
 
 .casta-de-abelha {
     border: 5px solid #ffa700;
     border-radius: 50%;
+}
+
+.rainha {
+    margin-bottom: 20px;
 }
 
 .esquerda {
